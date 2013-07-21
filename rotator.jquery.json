@@ -1,0 +1,25 @@
+{
+    "name": "rotator",
+    "title": "Rotating loader with custom end point",
+    "description": "jQuery plugin for append a rotating loader in a div.Loader can be stopped at any point or percentage.",
+    "keywords": [
+        "rotating",
+        "loader",
+        "percentage",
+        "circular"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Suraj Pratap",
+        "url": "surajpratap.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
