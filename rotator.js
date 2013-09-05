@@ -1,6 +1,9 @@
 (function($){
     $.fn.rotator = function(options){
         var settings = $.extend({
+            //
+            // ALL OPTIONS
+            //
             starting: 0,
             ending: 100,
             percentage: true,
