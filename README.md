@@ -23,6 +23,8 @@ $('#rotator').rotator({
   ending: 100,
   lineWidth: 10
   // For all available options, check rotator.js
+  // also use callback option to call a function when rotator hits the end
+  // callback: function(){ callback_code }
 })
 ```
 
